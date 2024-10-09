@@ -1,0 +1,33 @@
+body{
+          font-size: 105%;
+          font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+          font-size: 230%;
+          font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a{
+          color: rgba(60, 0, 255, 1);
+}
+.BackG{
+          background-color: rgba(10, 10, 255, 0.5);
+          border-color: rgba(60, 70, 100, 1);
+          border-width: 2px;
+          border-style: solid;
+          width:90%;
+          padding-top: 15px;
+          padding-bottom: 15px;
+          padding-left: 40px;
+          padding-right: 40px;
+}
+.BackMenu{
+          width: 98%;
+          background-color: rgba(110, 140, 255, 0.8);
+          border-color: rgba(60, 70, 100, 1);
+          border-width: 5px;
+          border-style: double;
+          font-size: 105%;
+}
+#Text_Menu{
+          color: rgb(10, 10, 20);
+}
